@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-    <strong>I'm a self-taught, passionate software developer from Italy</strong>
+    <strong>I'm a self-taught, passionate software developer from Romania</strong>
 </p>
 
 <div class="container" align="center">
