@@ -14,7 +14,7 @@
 
 [![Arsenic's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=danthespal&theme=react-dark)](https://github.com/danthespal/github-readme-activity-graph)
 
-- 🔭 I’m currently working as senior software engineer using C#/VB .NET and .NET in general
+- 🔭 I’m currently working as senior software engineer using C++ C#/VB .NET and .NET in general
 - :heart: I love open source and work on personal projects whether possible, I enjoy contributing to other projects and share opinions with other people.
 - :star2: I like to write game engine code and explore the different graphics APIs out there (Direct3D12, Vulkan, Metal or OpenGL). Therefore, I have created several projects to abstract the graphics APIs to make it easier to do graphics programming, which is where my main focus is. I love learning and read about new rendering techniques and try to implement them. 
 
